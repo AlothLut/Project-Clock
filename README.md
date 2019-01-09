@@ -1,3 +1,3 @@
 # Project-Clock
-clock and color changes by seconds
+clock and color change every second
 <img src="https://i.imgur.com/gIyuZEc.gif"/>
